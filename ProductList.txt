@@ -1,0 +1,8 @@
+Rice 79
+Onion 75
+Greenchili 40
+Chicken 290
+Beef 850
+VegetableMixed 65
+rice 0.00
+asdf 234.00
